@@ -1,7 +1,0 @@
-- [x] PO loader popup
-- [ ] PO loader when loading fbx
-- [ ] PO paging
-- [x] PO filter include_default
-- [x] PO bbox scale
-- [x] PO geometries
-- [ ] PO  textures
